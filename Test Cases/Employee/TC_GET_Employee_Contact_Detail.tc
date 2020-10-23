@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_GET_Employee_Contact_Detail</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>dcaa9e46-bda0-4e6d-b184-7fe7e9b1a18a</testCaseGuid>
+</TestCaseEntity>

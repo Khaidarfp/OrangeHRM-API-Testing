@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_GET_Search_Leave_Requests</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a4d7d33a-f42d-42b8-9c23-16004eb21c0a</testCaseGuid>
+</TestCaseEntity>

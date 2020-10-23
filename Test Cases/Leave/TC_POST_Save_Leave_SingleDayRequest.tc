@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_POST_Save_Leave_SingleDayRequest</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d8064451-ddfe-4587-b2bc-de18ff35146d</testCaseGuid>
+</TestCaseEntity>

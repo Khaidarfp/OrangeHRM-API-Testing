@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_PUT_Update_Customer</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ac71e027-ccdb-4e9f-86ae-0ba79f013cf9</testCaseGuid>
+</TestCaseEntity>

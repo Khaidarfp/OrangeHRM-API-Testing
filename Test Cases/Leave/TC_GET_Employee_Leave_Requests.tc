@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_GET_Employee_Leave_Requests</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a446c977-5a88-4024-8bc4-3f5cb84bba3e</testCaseGuid>
+</TestCaseEntity>

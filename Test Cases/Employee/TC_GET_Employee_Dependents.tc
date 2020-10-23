@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_GET_Employee_Dependents</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b7e3d929-dfef-4158-af4c-cddc56469242</testCaseGuid>
+</TestCaseEntity>

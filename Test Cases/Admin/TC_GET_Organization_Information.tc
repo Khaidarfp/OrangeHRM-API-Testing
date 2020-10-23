@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_GET_Organization_Information</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>6f8d190c-f55e-49ab-9b2d-80dad8f69571</testCaseGuid>
+</TestCaseEntity>

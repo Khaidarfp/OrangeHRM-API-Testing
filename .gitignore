@@ -1,16 +1,24 @@
 .gradle
 
+
 bin
+
 
 Reports
 
+
 Libs
+
 
 output
 
-!output/.gitkeep
+!output/
+.gitkeep
 build
+
 
 .classpath
 
-.projectProfiles
+
+.project
+Profiles
